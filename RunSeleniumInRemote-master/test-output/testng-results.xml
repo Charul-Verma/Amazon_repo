@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T14:54:16Z" name="Suite" finished-at="2023-05-23T14:54:47Z" duration-ms="31517">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T14:54:16Z" name="Test" finished-at="2023-05-23T14:54:47Z" duration-ms="31517">
+      <class name="testcases.CreateLead">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.CreateLead@5f2afe62]" started-at="2023-05-23T20:24:16Z" name="setUp" finished-at="2023-05-23T20:24:21Z" duration-ms="5384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createLead()[pri:0, instance:testcases.CreateLead@5f2afe62]" started-at="2023-05-23T20:24:21Z" name="createLead" finished-at="2023-05-23T20:24:33Z" duration-ms="11269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreateLead@5f2afe62]" started-at="2023-05-23T20:24:33Z" name="tearDown" finished-at="2023-05-23T20:24:33Z" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.CreateLead@5f2afe62]" started-at="2023-05-23T20:24:33Z" name="setUp" finished-at="2023-05-23T20:24:37Z" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createLead()[pri:0, instance:testcases.CreateLead@5f2afe62]" started-at="2023-05-23T20:24:37Z" name="createLead" finished-at="2023-05-23T20:24:47Z" duration-ms="10752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreateLead@5f2afe62]" started-at="2023-05-23T20:24:47Z" name="tearDown" finished-at="2023-05-23T20:24:47Z" duration-ms="190" status="PASS">
+=======
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="184032" started-at="2023-05-22T14:13:19Z" finished-at="2023-05-22T14:16:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="184032" started-at="2023-05-22T14:13:19Z" finished-at="2023-05-22T14:16:23Z">
+      <class name="testcases.CreateLead">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.CreateLead@4a22f9e2]" name="setUp" is-config="true" duration-ms="147823" started-at="2023-05-22T19:43:19Z" finished-at="2023-05-22T19:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createLead()[pri:0, instance:testcases.CreateLead@4a22f9e2]" name="createLead" duration-ms="14192" started-at="2023-05-22T19:45:46Z" finished-at="2023-05-22T19:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.CreateLead@4a22f9e2]" name="tearDown" is-config="true" duration-ms="255" started-at="2023-05-22T19:46:01Z" finished-at="2023-05-22T19:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.CreateLead@4a22f9e2]" name="setUp" is-config="true" duration-ms="6513" started-at="2023-05-22T19:46:01Z" finished-at="2023-05-22T19:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createLead()[pri:0, instance:testcases.CreateLead@4a22f9e2]" name="createLead" duration-ms="14973" started-at="2023-05-22T19:46:07Z" finished-at="2023-05-22T19:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.CreateLead@4a22f9e2]" name="tearDown" is-config="true" duration-ms="247" started-at="2023-05-22T19:46:22Z" finished-at="2023-05-22T19:46:23Z">
+>>>>>>> 739d32622003ec9df2b90310a82070b60485804b
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
